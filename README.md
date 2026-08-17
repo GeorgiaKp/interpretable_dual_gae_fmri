@@ -1,4 +1,4 @@
-# An Interpretable Dual Graph Autoencoder for ASD Detection
+# An Interpretable Dual Graph Autoencoder for ASD Detection (AIiH 2026)
 
 **Detecting Autism Spectrum Disorder from resting-state fMRI — with an explanation built into every prediction.**
 
@@ -219,9 +219,3 @@ abide_dataset/
 - The ABIDE consortium / Preprocessed Connectomes Project for the data.
 - Download and preprocessing utilities adapted from
   [BrainGNN_Pytorch](https://github.com/xxlya/BrainGNN_Pytorch).
-- Supervised by Eftychios Protopapadakis, University of Macedonia.
-
-## Contact
-
-Georgia Kapetadimitri — gkapet@uom.edu.gr
-Department of Applied Informatics, University of Macedonia
