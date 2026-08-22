@@ -1,0 +1,18 @@
+# Pinned from ASD_Dual_GAE.ipynb (Colab, Python 3.12).
+numpy==1.26.4
+torch==2.5.1
+torch-geometric==2.3.0
+deepdish==0.3.6
+nilearn
+
+# torch-scatter/sparse: match your torch build (swap +cu121 for +cpu, etc.)
+--find-links https://data.pyg.org/whl/torch-2.5.1+cu121.html
+torch-scatter
+torch-sparse
+
+# Used by the 01–03 scripts.
+scikit-learn
+scipy
+pandas
+matplotlib
+h5py
